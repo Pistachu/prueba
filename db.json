@@ -1,0 +1,9 @@
+{
+    "dni": {
+        "numero": 53130984,
+        "letra": "H"
+    },
+    "nombre": "Pepe",
+    "apellidos": "Perez Diaz",
+    "mensaje": "Prueba db.json"
+}
